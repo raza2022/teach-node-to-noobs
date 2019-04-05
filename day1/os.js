@@ -1,4 +1,4 @@
-const os = require('os');
+const os = require('day1/os');
 
 let totalMemory =os.totalmem();
 let freeMemory =os.freemem();

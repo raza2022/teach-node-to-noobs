@@ -1,5 +1,5 @@
 // a signal that happen something has happend
-const EventEmitter = require('events');
+const EventEmitter = require('day1/events');
 //all capitalize means it's class
 //Class:
 //

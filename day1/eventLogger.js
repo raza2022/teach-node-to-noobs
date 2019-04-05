@@ -1,4 +1,4 @@
-const EventEmitter = require('events');
+const EventEmitter = require('day1/events');
 
 const emitter = new EventEmitter();
 
